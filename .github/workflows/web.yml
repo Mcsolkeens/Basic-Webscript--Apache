@@ -1,5 +1,4 @@
 name: EC-Web
-
 on:
   push:
     branches:
