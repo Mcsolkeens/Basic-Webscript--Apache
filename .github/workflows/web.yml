@@ -23,5 +23,5 @@ jobs:
           curl ident.me
       - name: get users
         run: cat /etc/passwd
-          docker push mcsolkeens/app_dev
+          
       
