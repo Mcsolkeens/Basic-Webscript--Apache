@@ -2,7 +2,7 @@ name: EC-Web
 on: 
   push:
     branches:
-      - dev
+      - main
 jobs:
   check-os:
     runs-on: ubuntu-latest
